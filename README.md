@@ -5,7 +5,7 @@ Designed and implemented socket programming for client-server communication and 
 Key Features:
 Custom thread pool implementation for improved concurrency
 Handles HTTP requests and simulates a basic REST-like structure
-Performance and load testing done using Apache JMeter
+Performance and load testing done using Apache 
 Tested under multiple client simulations for stress analysis
 
 
